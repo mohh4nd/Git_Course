@@ -1,2 +1,2 @@
-# tuwaiq-course
-web development JavaScript course 
+# Git-Course
+git course from elzero youtube channel 
